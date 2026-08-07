@@ -1,0 +1,2 @@
+:HL["/_next/static/chunks/06rwp4x9t5l~1.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"movemeon-talent-platform","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"nQTBigtNQ_pv2ozwu-z9Z"}
