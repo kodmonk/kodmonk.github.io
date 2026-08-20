@@ -2,4 +2,4 @@ User-Agent: *
 Allow: /
 Disallow: /api/
 
-Sitemap: https://kodmonk.pages.dev/sitemap.xml
+Sitemap: https://kodmonk.com/sitemap.xml

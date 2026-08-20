@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,95107,t=>{"use strict";var e=t.i(71645),c=t.i(41720);t.s(["CaseStudyTracker",0,function({slug:t}){return(0,e.useEffect)(()=>(0,c.trackEvent)("case_study_view",{project_slug:t}),[t]),null}])}]);
