@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="topGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#397BFF"/>
+      <stop offset="100%" stop-color="#00BD8D"/>
+    </linearGradient>
+
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="14"
+                    flood-color="#2F2385" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="#FFFFFF"/>
+  <rect x="750" y="8" width="450" height="622" fill="#F5F6F7"/>
+  <rect width="1200" height="8" fill="url(#topGradient)"/>
+
+  <!-- Decorative circles -->
+  <circle cx="775" cy="205" r="125" fill="#BFEDE4" opacity="0.9"/>
+  <circle cx="950" cy="425" r="125" fill="#D7E4FF" opacity="0.95"/>
+
+  <!-- Kodmonk logo -->
+  <g transform="translate(70 70)">
+    <rect width="48" height="48" rx="13" fill="#403292"/>
+    <text x="24" y="33"
+          text-anchor="middle"
+          font-family="Arial, sans-serif"
+          font-size="25"
+          font-weight="700"
+          fill="#FFFFFF">{K}</text>
+
+    <text x="60" y="34"
+          font-family="Arial, sans-serif"
+          font-size="28"
+          font-weight="700"
+          fill="#0B0B0D">Kodmonk</text>
+  </g>
+
+  <!-- Badge -->
+  <rect x="70" y="178" width="359" height="45" rx="22"
+        fill="#D9F5EF"/>
+  <text x="86" y="208"
+        font-family="Arial, sans-serif"
+        font-size="23"
+        font-weight="700"
+        fill="#00B889">خدمات هندسة البرمجيات</text>
+
+  <!-- Main heading -->
+  <text x="70" y="272"
+        font-family="Arial, sans-serif"
+        font-size="39"
+        font-weight="800"
+        fill="#0B0B0D">
+    <tspan x="70" dy="0">خدمات هندسة البرمجيات |</tspan>
+    <tspan x="70" dy="44">Kodmonk Systems</tspan>
+    <tspan x="70" dy="44"></tspan>
+    <tspan x="70" dy="44"></tspan>
+  </text>
+
+  <!-- Description -->
+  <text x="70" y="444"
+        font-family="Arial, sans-serif"
+        font-size="18"
+        font-weight="400"
+        fill="#7A7F89">
+    <tspan x="70" dy="0">هندسة المنصات والسحابة للشركات العالمية.</tspan>
+    <tspan x="70" dy="24"></tspan>
+    <tspan x="70" dy="24"></tspan>
+  </text>
+
+  <!-- CTA -->
+  <rect x="70" y="524" width="281" height="53" rx="8"
+        fill="#397BFF"/>
+  <text x="210.5" y="559"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="24"
+        font-weight="700"
+        fill="#FFFFFF">استكشف قدراتنا</text>
+
+  <!-- Large Kodmonk icon -->
+  <g filter="url(#softShadow)">
+    <rect x="705" y="115" width="400" height="400" rx="108"
+          fill="#403292"/>
+  </g>
+
+  <!-- Icon braces -->
+  <path d="
+    M817 196
+    C790 196 776 209 776 234
+    L776 287
+    C776 302 769 311 748 316
+    C769 321 776 330 776 345
+    L776 399
+    C776 424 790 437 817 437"
+    fill="none"
+    stroke="#FFFFFF"
+    stroke-width="25"
+    stroke-linecap="round"
+    stroke-linejoin="round"/>
+
+  <path d="
+    M993 196
+    C1020 196 1034 209 1034 234
+    L1034 287
+    C1034 302 1041 311 1062 316
+    C1041 321 1034 330 1034 345
+    L1034 399
+    C1034 424 1020 437 993 437"
+    fill="none"
+    stroke="#FFFFFF"
+    stroke-width="25"
+    stroke-linecap="round"
+    stroke-linejoin="round"/>
+
+  <!-- K mark -->
+  <path d="M835 228 L835 402"
+        stroke="#C9D9FF"
+        stroke-width="36"
+        stroke-linecap="square"/>
+
+  <path d="M855 316 L950 228"
+        stroke="#C9D9FF"
+        stroke-width="36"
+        stroke-linecap="square"/>
+
+  <path d="M864 316 L955 402"
+        stroke="#C9D9FF"
+        stroke-width="36"
+        stroke-linecap="square"/>
+
+  <!-- Subtle mint accent -->
+  <path d="M835 228 L835 316 L855 316"
+        fill="none"
+        stroke="#BEEDE5"
+        stroke-width="36"
+        opacity="0.9"/>
+</svg>
