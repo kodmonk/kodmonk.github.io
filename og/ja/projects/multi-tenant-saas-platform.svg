@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="251" height="45" rx="22"
+  <rect x="70" y="178" width="255" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">SaaS ソリューション</text>
 
@@ -52,9 +52,9 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">大規模マルチテナント SaaS</tspan>
-    <tspan x="70" dy="44">評価プラットフォーム | Kodmonk</tspan>
-    <tspan x="70" dy="44">Systems</tspan>
+    <tspan x="70" dy="0">大規模マルチテナント SaaS評価プ</tspan>
+    <tspan x="70" dy="44">ラットフォーム| Software</tspan>
+    <tspan x="70" dy="44">Engineering| Kodmo...</tspan>
     <tspan x="70" dy="44"></tspan>
   </text>
 
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">同時接続 5 万人以上と月間 100 万件以上の自動セッションに対応する、拡張可能なマルチテナント SaaS</tspan>
-    <tspan x="70" dy="24">エコシステムです。</tspan>
-    <tspan x="70" dy="24"></tspan>
+    <tspan x="70" dy="0">同時接続 5万人以上と月間 100万件以上の自動セッションに対応する、拡</tspan>
+    <tspan x="70" dy="24">張可能なマルチテナント SaaSエコシステムです。 Kodmonk Systemsは</tspan>
+    <tspan x="70" dy="24">、企業向けにアーキテクチャ、開発、セキュリティ、拡張可能なソフト ウェアを提供します。</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="312" height="53" rx="8"
+  <rect x="70" y="524" width="291" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="226" y="559"
+  <text x="215.5" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

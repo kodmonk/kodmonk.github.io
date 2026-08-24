@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="183" height="45" rx="22"
+  <rect x="70" y="178" width="171" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">Solución ERP</text>
 
@@ -52,10 +52,10 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">Módulos ERP cloud</tspan>
-    <tspan x="70" dy="44">personalizados y</tspan>
-    <tspan x="70" dy="44">orquestación de</tspan>
-    <tspan x="70" dy="44">inventario | Kodmonk</tspan>
+    <tspan x="70" dy="0">Módulos de planificación de la</tspan>
+    <tspan x="70" dy="44">nube personalizada | Kodmo...</tspan>
+    <tspan x="70" dy="44"></tspan>
+    <tspan x="70" dy="44"></tspan>
   </text>
 
   <!-- Description -->
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">Módulos ERP cloud para inventario en tiempo real,</tspan>
-    <tspan x="70" dy="24">pedidos, proveedores y facturación automática.</tspan>
-    <tspan x="70" dy="24"></tspan>
+    <tspan x="70" dy="0">Construido módulos ERP de nube personalizada para el seguimiento</tspan>
+    <tspan x="70" dy="24">de inventarios en tiempo real, orquestación de pedidos, gestión de</tspan>
+    <tspan x="70" dy="24">proveedores y facturación...</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="301" height="53" rx="8"
+  <rect x="70" y="524" width="257" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="220.5" y="559"
+  <text x="198.5" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

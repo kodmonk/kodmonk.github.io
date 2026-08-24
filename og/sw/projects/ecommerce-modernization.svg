@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="298" height="45" rx="22"
+  <rect x="70" y="178" width="305" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">Uhandisi wa eCommerce</text>
 
@@ -53,9 +53,9 @@
         font-weight="800"
         fill="#0B0B0D">
     <tspan x="70" dy="0">Uboreshaji wa Jukwaa la</tspan>
-    <tspan x="70" dy="44">Biashara Duniani na</tspan>
-    <tspan x="70" dy="44">Injini ya Hosting |</tspan>
-    <tspan x="70" dy="44">Kodmonk Systems</tspan>
+    <tspan x="70" dy="44">Biashara Duniani na Injini ya</tspan>
+    <tspan x="70" dy="44">Hos...</tspan>
+    <tspan x="70" dy="44"></tspan>
   </text>
 
   <!-- Description -->
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">Injini ya kimataifa ya eCommerce na hosting yenye</tspan>
-    <tspan x="70" dy="24">trafiki kubwa iliyoboreshwa kwa usanifu wa React usio</tspan>
-    <tspan x="70" dy="24">na kichwa.</tspan>
+    <tspan x="70" dy="0">Injini ya kimataifa ya eCommerce na hosting yenye trafiki kubwa</tspan>
+    <tspan x="70" dy="24">iliyoboreshwa kwa usanifu wa React usio na kichwa. Kodmonk</tspan>
+    <tspan x="70" dy="24">Systems hutoa usanifu, utekelezaji...</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="260" height="53" rx="8"
+  <rect x="70" y="524" width="220" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="200" y="559"
+  <text x="180" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

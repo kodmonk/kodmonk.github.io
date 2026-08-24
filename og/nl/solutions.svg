@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="175" height="45" rx="22"
+  <rect x="70" y="178" width="168" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">Oplossingen</text>
 
@@ -54,8 +54,8 @@
         fill="#0B0B0D">
     <tspan x="70" dy="0">Engineering voor de fase</tspan>
     <tspan x="70" dy="44">waarin uw bedrijf zich</tspan>
-    <tspan x="70" dy="44">bevindt. | Kodmonk</tspan>
-    <tspan x="70" dy="44">Systems</tspan>
+    <tspan x="70" dy="44">bevindt....</tspan>
+    <tspan x="70" dy="44"></tspan>
   </text>
 
   <!-- Description -->
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">Of u nu lanceert, opschaalt, moderniseert,</tspan>
-    <tspan x="70" dy="24">automatiseert of integreert: wij maken de volgende</tspan>
-    <tspan x="70" dy="24">technische keuze duidelijker.</tspan>
+    <tspan x="70" dy="0">Of u nu lanceert, opschaalt, moderniseert, automatiseert of</tspan>
+    <tspan x="70" dy="24">integreert: wij maken de volgende technische keuze duidelijker.</tspan>
+    <tspan x="70" dy="24"></tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="218" height="53" rx="8"
+  <rect x="70" y="524" width="194" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="179" y="559"
+  <text x="167" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

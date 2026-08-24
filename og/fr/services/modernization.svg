@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="364" height="45" rx="22"
+  <rect x="70" y="178" width="347" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">Kodmonk Systems capability</text>
 
@@ -52,9 +52,9 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">Modernisation et</tspan>
-    <tspan x="70" dy="44">migration | Kodmonk</tspan>
-    <tspan x="70" dy="44">Systems</tspan>
+    <tspan x="70" dy="0">Modernisation et migration |</tspan>
+    <tspan x="70" dy="44">Software Engineering | Kodmo...</tspan>
+    <tspan x="70" dy="44"></tspan>
     <tspan x="70" dy="44"></tspan>
   </text>
 
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">Nous planifions et livrons des programmes progressifs</tspan>
-    <tspan x="70" dy="24">de modernisation applicative, cloud, bases de données,</tspan>
-    <tspan x="70" dy="24">commerce, CRM, ERP et CMS.</tspan>
+    <tspan x="70" dy="0">Nous planifions et livrons des programmes d&amp;#x27;applications</tspan>
+    <tspan x="70" dy="24">progressives, de cloud, de base de données, de commerce, de CRM,</tspan>
+    <tspan x="70" dy="24">d&amp;#x27;ERP et de modernisation CMS.</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="301" height="53" rx="8"
+  <rect x="70" y="524" width="261" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="220.5" y="559"
+  <text x="200.5" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

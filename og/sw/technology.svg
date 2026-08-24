@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="162" height="45" rx="22"
+  <rect x="70" y="178" width="144" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">Teknolojia</text>
 
@@ -52,10 +52,10 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">Teknolojia sahihi kwa</tspan>
-    <tspan x="70" dy="44">tatizo, si teknolojia kwa</tspan>
-    <tspan x="70" dy="44">ajili yake. | Kodmonk</tspan>
-    <tspan x="70" dy="44">Systems</tspan>
+    <tspan x="70" dy="0">Teknolojia sahihi kwa tatizo, si</tspan>
+    <tspan x="70" dy="44">teknolojia kwa ajili yak...</tspan>
+    <tspan x="70" dy="44"></tspan>
+    <tspan x="70" dy="44"></tspan>
   </text>
 
   <!-- Description -->
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">Chaguo zetu hufuata vikwazo vya bidhaa, mazingira ya</tspan>
-    <tspan x="70" dy="24">delivery, usalama na maintainability ya muda mrefu.</tspan>
-    <tspan x="70" dy="24"></tspan>
+    <tspan x="70" dy="0">Chaguo zetu hufuata vikwazo vya bidhaa, mazingira ya delivery,</tspan>
+    <tspan x="70" dy="24">usalama na maintainability ya muda mrefu. Kodmonk Systems hutoa</tspan>
+    <tspan x="70" dy="24">usanifu, utekelezaji, usalama...</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="307" height="53" rx="8"
+  <rect x="70" y="524" width="257" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="223.5" y="559"
+  <text x="198.5" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

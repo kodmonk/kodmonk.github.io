@@ -38,13 +38,13 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="343" height="45" rx="22"
+  <rect x="70" y="178" width="282" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
-        fill="#00B889">Conditions d’utilisation</text>
+        fill="#00B889">Conditions d'utilisation</text>
 
   <!-- Main heading -->
   <text x="70" y="272"
@@ -52,9 +52,9 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">Conditions d’utilisation</tspan>
-    <tspan x="70" dy="44">| Kodmonk Systems</tspan>
-    <tspan x="70" dy="44"></tspan>
+    <tspan x="70" dy="0">Conditions d&amp;#x27;utilisation |</tspan>
+    <tspan x="70" dy="44">Software Engineering |</tspan>
+    <tspan x="70" dy="44">Kodmonk...</tspan>
     <tspan x="70" dy="44"></tspan>
   </text>
 
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">Conditions du site Kodmonk Systems.</tspan>
-    <tspan x="70" dy="24"></tspan>
-    <tspan x="70" dy="24"></tspan>
+    <tspan x="70" dy="0">Conditions d&amp;#x27;utilisation du site web Kodmonk Systems.</tspan>
+    <tspan x="70" dy="24">Kodmonk Systems réunit architecture, delivery, sécurité et</tspan>
+    <tspan x="70" dy="24">ingénierie logicielle évolutive pour les ent...</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="301" height="53" rx="8"
+  <rect x="70" y="524" width="245" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="220.5" y="559"
+  <text x="192.5" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

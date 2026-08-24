@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="170" height="45" rx="22"
+  <rect x="70" y="178" width="157" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">Solusi SaaS</text>
 
@@ -53,8 +53,8 @@
         font-weight="800"
         fill="#0B0B0D">
     <tspan x="70" dy="0">Platform Penilaian SaaS</tspan>
-    <tspan x="70" dy="44">Multi-Tenant Berskala</tspan>
-    <tspan x="70" dy="44">Tinggi | Kodmonk Systems</tspan>
+    <tspan x="70" dy="44">Multi-Tenant Berskala Tinggi |</tspan>
+    <tspan x="70" dy="44">Ko...</tspan>
     <tspan x="70" dy="44"></tspan>
   </text>
 
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">Ekosistem SaaS multi-tenant yang skalabel untuk</tspan>
-    <tspan x="70" dy="24">mendukung lebih dari 50.000 pengguna bersamaan dan</tspan>
-    <tspan x="70" dy="24">lebih dari satu juta sesi otomatis setiap bulan.</tspan>
+    <tspan x="70" dy="0">Ekosistem SaaS multi-tenant yang skalabel untuk mendukung lebih</tspan>
+    <tspan x="70" dy="24">dari 50.000 pengguna bersamaan dan lebih dari satu juta sesi</tspan>
+    <tspan x="70" dy="24">otomatis setiap bulan.</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="260" height="53" rx="8"
+  <rect x="70" y="524" width="225" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="200" y="559"
+  <text x="182.5" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

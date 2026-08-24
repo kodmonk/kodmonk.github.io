@@ -38,13 +38,13 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="295" height="45" rx="22"
+  <rect x="70" y="178" width="370" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
-        fill="#00B889">Kodmonk-capaciteiten</text>
+        fill="#00B889">Software-engineeringdiensten</text>
 
   <!-- Main heading -->
   <text x="70" y="272"
@@ -52,8 +52,8 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">Kodmonk-capaciteiten |</tspan>
-    <tspan x="70" dy="44">Kodmonk Systems</tspan>
+    <tspan x="70" dy="0">Software-engineeringdiensten |</tspan>
+    <tspan x="70" dy="44">Software Engineering | Kod...</tspan>
     <tspan x="70" dy="44"></tspan>
     <tspan x="70" dy="44"></tspan>
   </text>
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">Capaciteiten die strategie en delivery verbinden.</tspan>
-    <tspan x="70" dy="24"></tspan>
-    <tspan x="70" dy="24"></tspan>
+    <tspan x="70" dy="0">Internationale SaaS-, CRM-, CMS-, eCommerce-, ERP-, AI- en</tspan>
+    <tspan x="70" dy="24">cloud-engineeringdiensten van Kodmonk Systems. Kodmonk</tspan>
+    <tspan x="70" dy="24">Systems combineert architectuur, delivery,...</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="279" height="53" rx="8"
+  <rect x="70" y="524" width="243" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="209.5" y="559"
+  <text x="191.5" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="183" height="45" rx="22"
+  <rect x="70" y="178" width="165" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">Solution ERP</text>
 
@@ -52,10 +52,10 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">Modules ERP cloud</tspan>
-    <tspan x="70" dy="44">personnalisés et</tspan>
-    <tspan x="70" dy="44">orchestration des stocks</tspan>
-    <tspan x="70" dy="44">| Kodmonk Systems</tspan>
+    <tspan x="70" dy="0">Modules ERP Cloud</tspan>
+    <tspan x="70" dy="44">personnalisés &amp; Orchestration</tspan>
+    <tspan x="70" dy="44">d&amp;#x27;inventa...</tspan>
+    <tspan x="70" dy="44"></tspan>
   </text>
 
   <!-- Description -->
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">Modules ERP cloud pour le suivi des stocks, les</tspan>
-    <tspan x="70" dy="24">commandes, les fournisseurs et la facturation</tspan>
-    <tspan x="70" dy="24">automatisée.</tspan>
+    <tspan x="70" dy="0">Modules ERP cloud personnalisés pour le suivi des stocks en temps</tspan>
+    <tspan x="70" dy="24">réel, l&amp;#x27;orchestration des commandes, la gestion des</tspan>
+    <tspan x="70" dy="24">fournisseurs et la facturation automati...</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="288" height="53" rx="8"
+  <rect x="70" y="524" width="243" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="214" y="559"
+  <text x="191.5" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

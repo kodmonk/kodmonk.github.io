@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="364" height="45" rx="22"
+  <rect x="70" y="178" width="347" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">Kodmonk Systems capability</text>
 
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">हम CRM, ERP, CMS, संचालन, वित्त, इन्वेंटरी, सपोर्ट और</tspan>
-    <tspan x="70" dy="24">अप्रूवल प्लेटफ़ॉर्म बनाते और इंटीग्रेट करते हैं।</tspan>
-    <tspan x="70" dy="24"></tspan>
+    <tspan x="70" dy="0">हम सीआरएम, ईआरपी, सीएमएस, संचालन, वित्त, सूची,</tspan>
+    <tspan x="70" dy="24">समर्थन और अनुमोदन प्लेटफार्मों का निर्माण और</tspan>
+    <tspan x="70" dy="24">एकीकृत करते हैं।. Kodmonk Systems आर्किटेक्चर, डिलीवरी, सुरक्षा औ...</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="375" height="53" rx="8"
+  <rect x="70" y="524" width="353" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="257.5" y="559"
+  <text x="246.5" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

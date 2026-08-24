@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="175" height="45" rx="22"
+  <rect x="70" y="178" width="172" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">SaaS-Lösung</text>
 
@@ -54,7 +54,7 @@
         fill="#0B0B0D">
     <tspan x="70" dy="0">Hochskalierbare</tspan>
     <tspan x="70" dy="44">Multi-Tenant-SaaS-Bewertungsplattform</tspan>
-    <tspan x="70" dy="44">| Kodmonk Systems</tspan>
+    <tspan x="70" dy="44">| K...</tspan>
     <tspan x="70" dy="44"></tspan>
   </text>
 
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">Skalierbares Multi-Tenant-SaaS-Ökosystem für mehr als</tspan>
-    <tspan x="70" dy="24">50.000 gleichzeitige Nutzer und über eine Million</tspan>
-    <tspan x="70" dy="24">automatisierte Sitzungen pro Monat.</tspan>
+    <tspan x="70" dy="0">Skalierbares Multi-Tenant-SaaS-Ökosystem für mehr als 50.000</tspan>
+    <tspan x="70" dy="24">gleichzeitige Nutzer und über eine Million automatisierte Sitzungen</tspan>
+    <tspan x="70" dy="24">pro Monat.</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="293" height="53" rx="8"
+  <rect x="70" y="524" width="256" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="216.5" y="559"
+  <text x="198" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

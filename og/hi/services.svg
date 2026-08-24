@@ -38,13 +38,13 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="475" height="45" rx="22"
+  <rect x="70" y="178" width="498" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
-        fill="#00B889">सॉफ्टवेयर इंजीनियरिंग सेवाएँ</text>
+        fill="#00B889">सॉफ्टवेयर इंजीनियरिंग सेवाएं</text>
 
   <!-- Main heading -->
   <text x="70" y="272"
@@ -53,8 +53,8 @@
         font-weight="800"
         fill="#0B0B0D">
     <tspan x="70" dy="0">सॉफ्टवेयर इंजीनियरिंग</tspan>
-    <tspan x="70" dy="44">सेवाएँ | Kodmonk Systems</tspan>
-    <tspan x="70" dy="44"></tspan>
+    <tspan x="70" dy="44">सेवाएं | Software</tspan>
+    <tspan x="70" dy="44">Engineering | Kod...</tspan>
     <tspan x="70" dy="44"></tspan>
   </text>
 
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">वैश्विक व्यवसायों के लिए सॉफ्टवेयर और क्लाउड</tspan>
-    <tspan x="70" dy="24">इंजीनियरिंग।</tspan>
-    <tspan x="70" dy="24"></tspan>
+    <tspan x="70" dy="0">ग्लोबल सास, सीआरएम, सीएमएस, ईकामर्स, ईआरपी, एआई और</tspan>
+    <tspan x="70" dy="24">क्लाउड इंजीनियरिंग सेवाएं कोडमंक सिस्टम से।.</tspan>
+    <tspan x="70" dy="24">Kodmonk Systems आर्किटेक्चर, डिलीवरी, सुरक्षा और स्केलेबल सॉफ...</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="281" height="53" rx="8"
+  <rect x="70" y="524" width="267" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="210.5" y="559"
+  <text x="203.5" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="620" height="45" rx="22"
+  <rect x="70" y="178" width="586" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">High-performance software engineering practice</text>
 
@@ -52,9 +52,9 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">Kodmonk Systems |</tspan>
-    <tspan x="70" dy="44">Software Platforms</tspan>
-    <tspan x="70" dy="44">Engineered for Scale</tspan>
+    <tspan x="70" dy="0">Kodmonk Systems | Software</tspan>
+    <tspan x="70" dy="44">Platforms Engineered for Scale</tspan>
+    <tspan x="70" dy="44"></tspan>
     <tspan x="70" dy="44"></tspan>
   </text>
 
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">Kodmonk Systems designs, builds, modernizes, and scales</tspan>
-    <tspan x="70" dy="24">high-performance software platforms for ambitious</tspan>
-    <tspan x="70" dy="24">businesses.</tspan>
+    <tspan x="70" dy="0">Kodmonk Systems delivers dependable software platforms for</tspan>
+    <tspan x="70" dy="24">ambitious businesses through architecture, cloud, AI, security, and</tspan>
+    <tspan x="70" dy="24">product engineering.</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="301" height="53" rx="8"
+  <rect x="70" y="524" width="251" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="220.5" y="559"
+  <text x="195.5" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="311" height="45" rx="22"
+  <rect x="70" y="178" width="270" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">AI- en cloudintegratie</text>
 
@@ -53,8 +53,8 @@
         font-weight="800"
         fill="#0B0B0D">
     <tspan x="70" dy="0">AI-gestuurde workflow- en</tspan>
-    <tspan x="70" dy="44">documentautomatiserings-engine</tspan>
-    <tspan x="70" dy="44">| Kodmonk Systems</tspan>
+    <tspan x="70" dy="44">documentautomatiserings-engine...</tspan>
+    <tspan x="70" dy="44"></tspan>
     <tspan x="70" dy="44"></tspan>
   </text>
 
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">LLM-pijplijnen en automatische documentextractie</tspan>
-    <tspan x="70" dy="24">geïntegreerd in enterprise-backenddiensten om</tspan>
-    <tspan x="70" dy="24">beslissingen te versnellen.</tspan>
+    <tspan x="70" dy="0">LLM-pijplijnen en automatische documentextractie geïntegreerd in</tspan>
+    <tspan x="70" dy="24">enterprise-backenddiensten om beslissingen te versnellen.</tspan>
+    <tspan x="70" dy="24"></tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="329" height="53" rx="8"
+  <rect x="70" y="524" width="280" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="234.5" y="559"
+  <text x="210" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

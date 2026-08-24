@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="196" height="45" rx="22"
+  <rect x="70" y="178" width="178" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">Solution SaaS</text>
 
@@ -52,10 +52,10 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">Plateforme SaaS</tspan>
-    <tspan x="70" dy="44">d’évaluation multi-tenant</tspan>
-    <tspan x="70" dy="44">haute capacité | Kodmonk</tspan>
+    <tspan x="70" dy="0">Plateforme d&amp;#x27;évaluation</tspan>
+    <tspan x="70" dy="44">SaaS à haut niveau | Kodmonk</tspan>
     <tspan x="70" dy="44">Systems</tspan>
+    <tspan x="70" dy="44"></tspan>
   </text>
 
   <!-- Description -->
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">Écosystème SaaS multi-tenant évolutif pour plus de 50</tspan>
-    <tspan x="70" dy="24">000 utilisateurs simultanés et plus d’un million de</tspan>
-    <tspan x="70" dy="24">sessions automatisées par mois.</tspan>
+    <tspan x="70" dy="0">Conception d&amp;#x27;un écosystème SaaS multi-tenu évolutif qui</tspan>
+    <tspan x="70" dy="24">supporte les utilisateurs simultanés de 50K+ et fournit plus</tspan>
+    <tspan x="70" dy="24">d&amp;#x27;un million de sessions automatisées pa...</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="288" height="53" rx="8"
+  <rect x="70" y="524" width="243" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="214" y="559"
+  <text x="191.5" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

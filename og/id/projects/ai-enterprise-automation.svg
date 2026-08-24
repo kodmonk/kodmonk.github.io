@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="305" height="45" rx="22"
+  <rect x="70" y="178" width="274" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">Integrasi AI dan Cloud</text>
 
@@ -52,10 +52,10 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">Mesin Workflow dan</tspan>
-    <tspan x="70" dy="44">Otomatisasi Dokumen</tspan>
-    <tspan x="70" dy="44">Berbasis AI | Kodmonk</tspan>
-    <tspan x="70" dy="44">Systems</tspan>
+    <tspan x="70" dy="0">Mesin Workflow dan Otomatisasi</tspan>
+    <tspan x="70" dy="44">Dokumen Berbasis AI | Kodm...</tspan>
+    <tspan x="70" dy="44"></tspan>
+    <tspan x="70" dy="44"></tspan>
   </text>
 
   <!-- Description -->
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">Pipeline LLM AI dan ekstraksi dokumen otomatis</tspan>
-    <tspan x="70" dy="24">diintegrasikan ke layanan backend perusahaan untuk</tspan>
-    <tspan x="70" dy="24">mempercepat keputusan.</tspan>
+    <tspan x="70" dy="0">Pipeline LLM AI dan ekstraksi dokumen otomatis diintegrasikan ke</tspan>
+    <tspan x="70" dy="24">layanan backend perusahaan untuk mempercepat keputusan.</tspan>
+    <tspan x="70" dy="24"></tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="260" height="53" rx="8"
+  <rect x="70" y="524" width="225" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="200" y="559"
+  <text x="182.5" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

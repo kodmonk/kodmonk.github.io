@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="160" height="45" rx="22"
+  <rect x="70" y="178" width="136" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">Lösungen</text>
 
@@ -52,10 +52,10 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">Engineering für die</tspan>
-    <tspan x="70" dy="44">aktuelle Phase Ihres</tspan>
-    <tspan x="70" dy="44">Unternehmens. | Kodmonk</tspan>
-    <tspan x="70" dy="44">Systems</tspan>
+    <tspan x="70" dy="0">Engineering für die aktuelle</tspan>
+    <tspan x="70" dy="44">Phase Ihres Unternehmens. |...</tspan>
+    <tspan x="70" dy="44"></tspan>
+    <tspan x="70" dy="44"></tspan>
   </text>
 
   <!-- Description -->
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">Ob Launch, Skalierung, Modernisierung, Automatisierung</tspan>
-    <tspan x="70" dy="24">oder Integration: Wir machen die nächste technische</tspan>
-    <tspan x="70" dy="24">Entscheidung klarer.</tspan>
+    <tspan x="70" dy="0">Ob Launch, Skalierung, Modernisierung, Automatisierung oder</tspan>
+    <tspan x="70" dy="24">Integration: Wir machen die nächste technische Entscheidung</tspan>
+    <tspan x="70" dy="24">klarer.</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="260" height="53" rx="8"
+  <rect x="70" y="524" width="224" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="200" y="559"
+  <text x="182" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

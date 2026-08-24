@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="176" height="45" rx="22"
+  <rect x="70" y="178" width="181" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">ERP समाधान</text>
 
@@ -52,10 +52,10 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">कस्टम क्लाउड ERP मॉड्यूल</tspan>
-    <tspan x="70" dy="44">और इन्वेंटरी</tspan>
-    <tspan x="70" dy="44">ऑर्केस्ट्रेशन | Kodmonk</tspan>
-    <tspan x="70" dy="44">Systems</tspan>
+    <tspan x="70" dy="0">कस्टम क्लाउड ईआरपी</tspan>
+    <tspan x="70" dy="44">मॉड्यूल और इन्वेंटरी</tspan>
+    <tspan x="70" dy="44">ऑर्केस्ट्रेशन | K...</tspan>
+    <tspan x="70" dy="44"></tspan>
   </text>
 
   <!-- Description -->
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">रियल-टाइम इन्वेंटरी ट्रैकिंग, ऑर्डर ऑर्केस्ट्रेशन,</tspan>
-    <tspan x="70" dy="24">सप्लायर प्रबंधन और ऑटोमेटेड इनवॉइसिंग के लिए कस्टम</tspan>
-    <tspan x="70" dy="24">क्लाउड ERP मॉड्यूल।</tspan>
+    <tspan x="70" dy="0">वास्तविक समय की सूची ट्रैकिंग, ऑर्डर</tspan>
+    <tspan x="70" dy="24">ऑर्केस्ट्रेशन, आपूर्तिकर्ता प्रबंधन और स्वचालित</tspan>
+    <tspan x="70" dy="24">चालान के लिए कस्टम क्लाउड ईआरपी मॉड्यूल बनाया गया।.</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="461" height="53" rx="8"
+  <rect x="70" y="524" width="434" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="300.5" y="559"
+  <text x="287" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

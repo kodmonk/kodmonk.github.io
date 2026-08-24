@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="183" height="45" rx="22"
+  <rect x="70" y="178" width="169" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">Solution CRM</text>
 
@@ -52,10 +52,10 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">CRM Dynamics 365 et</tspan>
-    <tspan x="70" dy="44">workflows d’entreprise</tspan>
-    <tspan x="70" dy="44">automatisés | Kodmonk</tspan>
-    <tspan x="70" dy="44">Systems</tspan>
+    <tspan x="70" dy="0">Dynamics 365 CRM &amp; Automated</tspan>
+    <tspan x="70" dy="44">Enterprise Workflows | Kodmo...</tspan>
+    <tspan x="70" dy="44"></tspan>
+    <tspan x="70" dy="44"></tspan>
   </text>
 
   <!-- Description -->
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">Automatisation de processus complexes avec Dynamics</tspan>
-    <tspan x="70" dy="24">365, modules Power Platform et intégrations ERP.</tspan>
-    <tspan x="70" dy="24"></tspan>
+    <tspan x="70" dy="0">Processus d&amp;#x27;entreprise complexes automatisés utilisant</tspan>
+    <tspan x="70" dy="24">Dynamics 365, modules Power Platform personnalisés, et</tspan>
+    <tspan x="70" dy="24">intégrations ERP de tiers sans soudure.</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="288" height="53" rx="8"
+  <rect x="70" y="524" width="243" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="214" y="559"
+  <text x="191.5" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="364" height="45" rx="22"
+  <rect x="70" y="178" width="347" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">Kodmonk Systems capability</text>
 
@@ -53,8 +53,8 @@
         font-weight="800"
         fill="#0B0B0D">
     <tspan x="70" dy="0">Ingeniería de seguridad y</tspan>
-    <tspan x="70" dy="44">fiabilidad | Kodmonk</tspan>
-    <tspan x="70" dy="44">Systems</tspan>
+    <tspan x="70" dy="44">fiabilidad | Kodmonk Systems</tspan>
+    <tspan x="70" dy="44"></tspan>
     <tspan x="70" dy="44"></tspan>
   </text>
 
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">Reforzamos la seguridad de aplicaciones, el control de</tspan>
-    <tspan x="70" dy="24">acceso, las pruebas, el rendimiento, la observabilidad</tspan>
-    <tspan x="70" dy="24">y la preparación operativa.</tspan>
+    <tspan x="70" dy="0">Fortalecemos la seguridad de aplicaciones, el control de acceso,</tspan>
+    <tspan x="70" dy="24">las pruebas, el rendimiento, la observabilidad y la preparación</tspan>
+    <tspan x="70" dy="24">operacional.</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="301" height="53" rx="8"
+  <rect x="70" y="524" width="251" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="220.5" y="559"
+  <text x="195.5" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

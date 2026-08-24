@@ -38,13 +38,13 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="262" height="45" rx="22"
+  <rect x="70" y="178" width="329" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
-        fill="#00B889">Kodmonk इनसाइट्स</text>
+        fill="#00B889">Kodmonk अंतर्दृष्टि</text>
 
   <!-- Main heading -->
   <text x="70" y="272"
@@ -52,9 +52,9 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">Kodmonk इनसाइट्स |</tspan>
-    <tspan x="70" dy="44">Kodmonk Systems</tspan>
-    <tspan x="70" dy="44"></tspan>
+    <tspan x="70" dy="0">Kodmonk अंतर्दृष्टि |</tspan>
+    <tspan x="70" dy="44">Software Engineering | Kodmonk</tspan>
+    <tspan x="70" dy="44">Systems</tspan>
     <tspan x="70" dy="44"></tspan>
   </text>
 
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">SaaS, CRM, CMS, eCommerce, ERP, AI और क्लाउड</tspan>
-    <tspan x="70" dy="24">इंजीनियरिंग मार्गदर्शन।</tspan>
-    <tspan x="70" dy="24"></tspan>
+    <tspan x="70" dy="0">सास, सीआरएम, सीएमएस, ईकामर्स, ईआरपी, एआई और क्लाउड</tspan>
+    <tspan x="70" dy="24">इंजीनियरिंग पर व्यावहारिक मार्गदर्शन।. Kodmonk</tspan>
+    <tspan x="70" dy="24">Systems आर्किटेक्चर, डिलीवरी, सुरक्षा और स्केलेबल सॉफ्टवेयर...</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="289" height="53" rx="8"
+  <rect x="70" y="524" width="274" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="214.5" y="559"
+  <text x="207" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

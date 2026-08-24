@@ -38,13 +38,13 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="377" height="45" rx="22"
+  <rect x="70" y="178" width="348" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
-        fill="#00B889">AI और क्लाउड इंटीग्रेशन</text>
+        fill="#00B889">एआई और क्लाउड एकीकरण</text>
 
   <!-- Main heading -->
   <text x="70" y="272"
@@ -52,9 +52,9 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">AI-संचालित वर्कफ़्लो और</tspan>
-    <tspan x="70" dy="44">डॉक्यूमेंट ऑटोमेशन इंजन |</tspan>
-    <tspan x="70" dy="44">Kodmonk Systems</tspan>
+    <tspan x="70" dy="0">एआई-संचालित वर्कफ़्लो</tspan>
+    <tspan x="70" dy="44">और दस्तावेज़ स्वचालन</tspan>
+    <tspan x="70" dy="44">इंजन | Kodmonk...</tspan>
     <tspan x="70" dy="44"></tspan>
   </text>
 
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">निर्णय लेने की गति बढ़ाने के लिए LLM AI पाइपलाइन और</tspan>
-    <tspan x="70" dy="24">ऑटोमेटेड डॉक्यूमेंट एक्सट्रैक्शन को एंटरप्राइज़ बैकएंड</tspan>
-    <tspan x="70" dy="24">सेवाओं में जोड़ा गया।</tspan>
+    <tspan x="70" dy="0">निर्णय लेने में तेजी लाने के लिए एंटरप्राइज</tspan>
+    <tspan x="70" dy="24">बैकेंड सेवाओं में एकीकृत एलएलएम एआई पाइपलाइनों</tspan>
+    <tspan x="70" dy="24">और स्वचालित दस्तावेज़ निष्कर्षण कार्यप्रवाह।.</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="461" height="53" rx="8"
+  <rect x="70" y="524" width="434" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="300.5" y="559"
+  <text x="287" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

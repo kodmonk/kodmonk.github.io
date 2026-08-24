@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="214" height="45" rx="22"
+  <rect x="70" y="178" width="224" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">Kodmonkについて</text>
 
@@ -52,8 +52,8 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">Kodmonkについて | Kodmonk</tspan>
-    <tspan x="70" dy="44">Systems</tspan>
+    <tspan x="70" dy="0">Kodmonkについて| Software</tspan>
+    <tspan x="70" dy="44">Engineering| Kodmonk Systems</tspan>
     <tspan x="70" dy="44"></tspan>
     <tspan x="70" dy="44"></tspan>
   </text>
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">Kodmonk Systemsの会社概要とエンジニアリング方針。</tspan>
-    <tspan x="70" dy="24"></tspan>
-    <tspan x="70" dy="24"></tspan>
+    <tspan x="70" dy="0">Kodmonk Systemsの会社概要とエンジニアリング方針。 Kodmonk</tspan>
+    <tspan x="70" dy="24">Systemsは、企業向けにアーキテクチャ、開発、セキュリティ、拡張可</tspan>
+    <tspan x="70" dy="24">能なソフトウェアを提供します。 Kodmonk Systemsは、企業向けにア ーキテクチャ、開発、セキュリティ、拡張可能なソフトウェアを提供します。</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="288" height="53" rx="8"
+  <rect x="70" y="524" width="269" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="214" y="559"
+  <text x="204.5" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

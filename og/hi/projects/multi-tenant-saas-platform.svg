@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="189" height="45" rx="22"
+  <rect x="70" y="178" width="194" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">SaaS समाधान</text>
 
@@ -53,8 +53,8 @@
         font-weight="800"
         fill="#0B0B0D">
     <tspan x="70" dy="0">हाई-स्केल मल्टी-टेनेंट</tspan>
-    <tspan x="70" dy="44">SaaS असेसमेंट प्लेटफ़ॉर्म</tspan>
-    <tspan x="70" dy="44">| Kodmonk Systems</tspan>
+    <tspan x="70" dy="44">सास आकलन प्लेटफार्म |</tspan>
+    <tspan x="70" dy="44">Kodmonk Systems</tspan>
     <tspan x="70" dy="44"></tspan>
   </text>
 
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">50K+ समकालिक उपयोगकर्ताओं और हर महीने 10 लाख से अधिक</tspan>
-    <tspan x="70" dy="24">ऑटोमेटेड सेशन को संभालने वाला स्केलेबल मल्टी-टेनेंट</tspan>
-    <tspan x="70" dy="24">SaaS इकोसिस्टम।</tspan>
+    <tspan x="70" dy="0">50K+ समवर्ती उपयोगकर्ताओं का समर्थन करने और मासिक</tspan>
+    <tspan x="70" dy="24">1,000,000 से अधिक स्वचालित सत्रों को वितरित करने के</tspan>
+    <tspan x="70" dy="24">लिए एक स्केलेबल मल्टी-टेनेंट सास पारिस्थितिकी तंत्र का...</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="461" height="53" rx="8"
+  <rect x="70" y="524" width="434" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="300.5" y="559"
+  <text x="287" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

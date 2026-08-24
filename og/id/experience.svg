@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="263" height="45" rx="22"
+  <rect x="70" y="178" width="271" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">Pengalaman Kodmonk</text>
 
@@ -52,8 +52,8 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">Pengalaman Kodmonk |</tspan>
-    <tspan x="70" dy="44">Kodmonk Systems</tspan>
+    <tspan x="70" dy="0">Pengalaman Kodmonk | Software</tspan>
+    <tspan x="70" dy="44">Engineering | Kodmonk Systems</tspan>
     <tspan x="70" dy="44"></tspan>
     <tspan x="70" dy="44"></tspan>
   </text>
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">Pengalaman di software enterprise dan platform digital.</tspan>
-    <tspan x="70" dy="24"></tspan>
-    <tspan x="70" dy="24"></tspan>
+    <tspan x="70" dy="0">Pengalaman delivery Kodmonk Systems di bidang software</tspan>
+    <tspan x="70" dy="24">enterprise dan platform digital. Kodmonk Systems menyediakan</tspan>
+    <tspan x="70" dy="24">arsitektur, delivery, keamanan, dan rekay...</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="343" height="53" rx="8"
+  <rect x="70" y="524" width="295" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="241.5" y="559"
+  <text x="217.5" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

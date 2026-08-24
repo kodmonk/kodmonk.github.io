@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="231" height="45" rx="22"
+  <rect x="70" y="178" width="212" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">Suluhisho la ERP</text>
 
@@ -52,9 +52,9 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">Moduli Maalum za Cloud</tspan>
-    <tspan x="70" dy="44">ERP na Uratibu wa Hesabu</tspan>
-    <tspan x="70" dy="44">| Kodmonk Systems</tspan>
+    <tspan x="70" dy="0">Moduli Maalum za Cloud ERP na</tspan>
+    <tspan x="70" dy="44">Uratibu wa Hesabu | Kodmonk...</tspan>
+    <tspan x="70" dy="44"></tspan>
     <tspan x="70" dy="44"></tspan>
   </text>
 
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">Moduli maalum za cloud ERP kwa ufuatiliaji wa hesabu wa</tspan>
-    <tspan x="70" dy="24">wakati halisi, uratibu wa oda, usimamizi wa wasambazaji</tspan>
-    <tspan x="70" dy="24">na ankara otomatiki.</tspan>
+    <tspan x="70" dy="0">Moduli maalum za cloud ERP kwa ufuatiliaji wa hesabu wa wakati</tspan>
+    <tspan x="70" dy="24">halisi, uratibu wa oda, usimamizi wa wasambazaji na ankara</tspan>
+    <tspan x="70" dy="24">otomatiki.</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="260" height="53" rx="8"
+  <rect x="70" y="524" width="220" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="200" y="559"
+  <text x="180" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

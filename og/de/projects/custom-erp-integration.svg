@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="162" height="45" rx="22"
+  <rect x="70" y="178" width="159" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">ERP-Lösung</text>
 
@@ -52,10 +52,10 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">Individuelle</tspan>
-    <tspan x="70" dy="44">Cloud-ERP-Module und</tspan>
-    <tspan x="70" dy="44">Bestandsorchestrierung |</tspan>
-    <tspan x="70" dy="44">Kodmonk Systems</tspan>
+    <tspan x="70" dy="0">Individuelle Cloud-ERP-Module</tspan>
+    <tspan x="70" dy="44">und Bestandsorchestrierung...</tspan>
+    <tspan x="70" dy="44"></tspan>
+    <tspan x="70" dy="44"></tspan>
   </text>
 
   <!-- Description -->
@@ -65,14 +65,14 @@
         font-weight="400"
         fill="#7A7F89">
     <tspan x="70" dy="0">Cloud-ERP-Module für Bestandsverfolgung in Echtzeit,</tspan>
-    <tspan x="70" dy="24">Auftragsorchestrierung, Lieferantenverwaltung und</tspan>
-    <tspan x="70" dy="24">automatische Rechnungen.</tspan>
+    <tspan x="70" dy="24">Auftragsorchestrierung, Lieferantenverwaltung und automatische</tspan>
+    <tspan x="70" dy="24">Rechnungen.</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="293" height="53" rx="8"
+  <rect x="70" y="524" width="256" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="216.5" y="559"
+  <text x="198" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

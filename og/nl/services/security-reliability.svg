@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="364" height="45" rx="22"
+  <rect x="70" y="178" width="347" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">Kodmonk Systems capability</text>
 
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">Wij versterken applicatiebeveiliging, toegangsbeheer,</tspan>
-    <tspan x="70" dy="24">testing, performance, observability en operationele</tspan>
-    <tspan x="70" dy="24">paraatheid.</tspan>
+    <tspan x="70" dy="0">Wij versterken applicatiebeveiliging, toegangsbeheer, testing,</tspan>
+    <tspan x="70" dy="24">performance, observability en operationele paraatheid. Kodmonk</tspan>
+    <tspan x="70" dy="24">Systems combineert architectuur...</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="329" height="53" rx="8"
+  <rect x="70" y="524" width="292" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="234.5" y="559"
+  <text x="216" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

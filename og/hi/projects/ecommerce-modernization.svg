@@ -38,13 +38,13 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="339" height="45" rx="22"
+  <rect x="70" y="178" width="351" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
-        fill="#00B889">eCommerce इंजीनियरिंग</text>
+        fill="#00B889">ईकामर्स इंजीनियरिंग</text>
 
   <!-- Main heading -->
   <text x="70" y="272"
@@ -52,9 +52,9 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">ग्लोबल कॉमर्स प्लेटफ़ॉर्म</tspan>
+    <tspan x="70" dy="0">वैश्विक वाणिज्य मंच</tspan>
     <tspan x="70" dy="44">आधुनिकीकरण और होस्टिंग</tspan>
-    <tspan x="70" dy="44">इंजन | Kodmonk Systems</tspan>
+    <tspan x="70" dy="44">इंजन | Kodmonk...</tspan>
     <tspan x="70" dy="44"></tspan>
   </text>
 
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">हेडलेस React आर्किटेक्चर के साथ हाई-ट्रैफ़िक</tspan>
-    <tspan x="70" dy="24">अंतरराष्ट्रीय eCommerce और मैनेज्ड होस्टिंग इंजन का</tspan>
-    <tspan x="70" dy="24">आधुनिकीकरण।</tspan>
+    <tspan x="70" dy="0">आधुनिकीकृत एक उच्च यातायात अंतरराष्ट्रीय</tspan>
+    <tspan x="70" dy="24">ईकामर्स और प्रबंधित होस्टिंग इंजन, 300K-1M मासिक</tspan>
+    <tspan x="70" dy="24">सक्रिय दुकानदारों की सेवा के साथ हेडलेस रिएक्ट आर्किटेक्चर।.</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="461" height="53" rx="8"
+  <rect x="70" y="524" width="434" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="300.5" y="559"
+  <text x="287" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

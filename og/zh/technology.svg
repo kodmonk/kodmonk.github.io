@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="160" height="45" rx="22"
+  <rect x="70" y="178" width="100" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">技术</text>
 
@@ -52,9 +52,9 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">技术服务于问题，而不是为了技术本身。 |</tspan>
-    <tspan x="70" dy="44">Kodmonk Systems</tspan>
-    <tspan x="70" dy="44"></tspan>
+    <tspan x="70" dy="0">解决问题的正确技术,而不是技术.|</tspan>
+    <tspan x="70" dy="44">Software Engineering| Kodmonk</tspan>
+    <tspan x="70" dy="44">Systems</tspan>
     <tspan x="70" dy="44"></tspan>
   </text>
 
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">我们的技术选择遵循产品约束、交付背景、安全需求和长期可维护性。</tspan>
-    <tspan x="70" dy="24"></tspan>
-    <tspan x="70" dy="24"></tspan>
+    <tspan x="70" dy="0">我们的技术选择遵循产品限制、交付环境、安全需要和长期维持能力.</tspan>
+    <tspan x="70" dy="24">Kodmonk Systems提供架构、交付、安全与可扩展软件工程服务，帮助企</tspan>
+    <tspan x="70" dy="24">业建设可靠的数字平台。 Kodmonk Systems提供架构、交付、安全与可 扩展软件工程服务，帮助企业建设可靠的数字平台。</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="168" height="53" rx="8"
+  <rect x="70" y="524" width="159" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="154" y="559"
+  <text x="149.5" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="353" height="45" rx="22"
+  <rect x="70" y="178" width="345" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">Muunganisho wa AI na Cloud</text>
 
@@ -54,8 +54,8 @@
         fill="#0B0B0D">
     <tspan x="70" dy="0">Injini ya Workflows na</tspan>
     <tspan x="70" dy="44">Uendeshaji wa Nyaraka</tspan>
-    <tspan x="70" dy="44">Inayotumia AI | Kodmonk</tspan>
-    <tspan x="70" dy="44">Systems</tspan>
+    <tspan x="70" dy="44">Inayotumia A...</tspan>
+    <tspan x="70" dy="44"></tspan>
   </text>
 
   <!-- Description -->
@@ -70,9 +70,9 @@
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="260" height="53" rx="8"
+  <rect x="70" y="524" width="220" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="200" y="559"
+  <text x="180" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

@@ -38,13 +38,13 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="294" height="45" rx="22"
+  <rect x="70" y="178" width="129" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
-        fill="#00B889">Kodmonk के बारे में</text>
+        fill="#00B889">Kodmonk</text>
 
   <!-- Main heading -->
   <text x="70" y="272"
@@ -52,8 +52,8 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">Kodmonk के बारे में |</tspan>
-    <tspan x="70" dy="44">Kodmonk Systems</tspan>
+    <tspan x="70" dy="0">Kodmonk | Software Engineering</tspan>
+    <tspan x="70" dy="44">| Kodmonk Systems Company</tspan>
     <tspan x="70" dy="44"></tspan>
     <tspan x="70" dy="44"></tspan>
   </text>
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">Kodmonk Systems की कंपनी और इंजीनियरिंग पद्धति।</tspan>
-    <tspan x="70" dy="24"></tspan>
-    <tspan x="70" dy="24"></tspan>
+    <tspan x="70" dy="0">कोडमंक सिस्टम कंपनी प्रोफाइल, मान और इंजीनियरिंग</tspan>
+    <tspan x="70" dy="24">डिलीवरी दृष्टिकोण।. Kodmonk Systems आर्किटेक्चर,</tspan>
+    <tspan x="70" dy="24">डिलीवरी, सुरक्षा और स्केलेबल सॉफ्टवेयर इंजीनियरिंग में विशे...</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="324" height="53" rx="8"
+  <rect x="70" y="524" width="307" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="232" y="559"
+  <text x="223.5" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

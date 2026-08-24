@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="176" height="45" rx="22"
+  <rect x="70" y="178" width="186" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">CRM समाधान</text>
 
@@ -53,9 +53,9 @@
         font-weight="800"
         fill="#0B0B0D">
     <tspan x="70" dy="0">Dynamics 365 CRM और</tspan>
-    <tspan x="70" dy="44">ऑटोमेटेड एंटरप्राइज़</tspan>
-    <tspan x="70" dy="44">वर्कफ़्लो | Kodmonk</tspan>
-    <tspan x="70" dy="44">Systems</tspan>
+    <tspan x="70" dy="44">स्वचालित एंटरप्राइज़</tspan>
+    <tspan x="70" dy="44">वर्कफ़्लो | Kodm...</tspan>
+    <tspan x="70" dy="44"></tspan>
   </text>
 
   <!-- Description -->
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">Dynamics 365, कस्टम Power Platform मॉड्यूल और ERP</tspan>
-    <tspan x="70" dy="24">इंटीग्रेशन के माध्यम से जटिल एंटरप्राइज़ प्रक्रियाओं का</tspan>
-    <tspan x="70" dy="24">ऑटोमेशन।</tspan>
+    <tspan x="70" dy="0">Dynamics 365, कस्टम पावर प्लेटफॉर्म मॉड्यूल और</tspan>
+    <tspan x="70" dy="24">निर्बाध तृतीय-पक्ष ERP एकीकरण का उपयोग करके</tspan>
+    <tspan x="70" dy="24">स्वचालित जटिल उद्यम व्यवसाय प्रक्रियाएं।.</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="461" height="53" rx="8"
+  <rect x="70" y="524" width="434" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="300.5" y="559"
+  <text x="287" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

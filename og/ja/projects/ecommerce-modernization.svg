@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="340" height="45" rx="22"
+  <rect x="70" y="178" width="359" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">eCommerce エンジニアリング</text>
 
@@ -52,9 +52,9 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">グローバルコマース基盤のモダナイズとホスティングエンジン</tspan>
-    <tspan x="70" dy="44">| Kodmonk Systems</tspan>
-    <tspan x="70" dy="44"></tspan>
+    <tspan x="70" dy="0">グローバルコマース基盤のモダナ</tspan>
+    <tspan x="70" dy="44">イズとホスティングエンジン|</tspan>
+    <tspan x="70" dy="44">Software Engineering| Kod...</tspan>
     <tspan x="70" dy="44"></tspan>
   </text>
 
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">ヘッドレス React アーキテクチャで、高トラフィックの国際 eCommerce</tspan>
-    <tspan x="70" dy="24">とホスティングエンジンをモダナイズしました。</tspan>
-    <tspan x="70" dy="24"></tspan>
+    <tspan x="70" dy="0">ヘッドレス Reactアーキテクチャで、高トラフィックの国際</tspan>
+    <tspan x="70" dy="24">eCommerceとホスティングエンジンをモダナイズしました。 Kodmonk</tspan>
+    <tspan x="70" dy="24">Systemsは、企業向けにアーキテクチャ、開発、セキュリティ、拡張可 能なソフトウェアを提供します。</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="312" height="53" rx="8"
+  <rect x="70" y="524" width="291" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="226" y="559"
+  <text x="215.5" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

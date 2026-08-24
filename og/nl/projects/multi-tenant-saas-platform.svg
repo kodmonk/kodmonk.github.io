@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="215" height="45" rx="22"
+  <rect x="70" y="178" width="200" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">SaaS-oplossing</text>
 
@@ -52,10 +52,10 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">Hoog schaalbaar</tspan>
-    <tspan x="70" dy="44">multi-tenant</tspan>
-    <tspan x="70" dy="44">SaaS-beoordelingsplatform</tspan>
-    <tspan x="70" dy="44">| Kodmonk Systems</tspan>
+    <tspan x="70" dy="0">Hoog schaalbaar multi-tenant</tspan>
+    <tspan x="70" dy="44">SaaS-beoordelingsplatform |...</tspan>
+    <tspan x="70" dy="44"></tspan>
+    <tspan x="70" dy="44"></tspan>
   </text>
 
   <!-- Description -->
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">Een schaalbaar multi-tenant SaaS-ecosysteem voor meer</tspan>
-    <tspan x="70" dy="24">dan 50.000 gelijktijdige gebruikers en ruim een miljoen</tspan>
+    <tspan x="70" dy="0">Een schaalbaar multi-tenant SaaS-ecosysteem voor meer dan</tspan>
+    <tspan x="70" dy="24">50.000 gelijktijdige gebruikers en ruim een miljoen</tspan>
     <tspan x="70" dy="24">geautomatiseerde sessies per maand.</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="329" height="53" rx="8"
+  <rect x="70" y="524" width="280" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="234.5" y="559"
+  <text x="210" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

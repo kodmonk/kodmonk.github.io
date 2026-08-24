@@ -38,13 +38,13 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="160" height="45" rx="22"
+  <rect x="70" y="178" width="123" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
-        fill="#00B889">使用条款</text>
+        fill="#00B889">使用条件</text>
 
   <!-- Main heading -->
   <text x="70" y="272"
@@ -52,8 +52,8 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">使用条款 | Kodmonk Systems</tspan>
-    <tspan x="70" dy="44"></tspan>
+    <tspan x="70" dy="0">使用条件| Software Engineering|</tspan>
+    <tspan x="70" dy="44">Kodmonk Systems Company</tspan>
     <tspan x="70" dy="44"></tspan>
     <tspan x="70" dy="44"></tspan>
   </text>
@@ -64,9 +64,9 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">Kodmonk Systems 网站使用条款。</tspan>
-    <tspan x="70" dy="24"></tspan>
-    <tspan x="70" dy="24"></tspan>
+    <tspan x="70" dy="0">科德蒙克系统网站的使用术语. Kodmonk Systems提供架构、交付、安全</tspan>
+    <tspan x="70" dy="24">与可扩展软件工程服务，帮助企业建设可靠的数字平台。 Kodmonk</tspan>
+    <tspan x="70" dy="24">Systems提供架构、交付、安全与可扩展软件工程服务，帮助企业建设可靠 的数字平台。 Kodmonk Systems提供架构、交付、安全与可扩展软件工程服务，帮...</tspan>
   </text>
 
   <!-- CTA -->

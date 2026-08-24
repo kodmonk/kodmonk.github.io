@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="364" height="45" rx="22"
+  <rect x="70" y="178" width="347" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">Kodmonk Systems capability</text>
 
@@ -52,9 +52,9 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">企业软件工程 | Kodmonk Systems</tspan>
-    <tspan x="70" dy="44"></tspan>
-    <tspan x="70" dy="44"></tspan>
+    <tspan x="70" dy="0">企业软件工程| Software</tspan>
+    <tspan x="70" dy="44">Engineering| Kodmonk Systems</tspan>
+    <tspan x="70" dy="44">Company</tspan>
     <tspan x="70" dy="44"></tspan>
   </text>
 
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">我们构建并集成 CRM、ERP、CMS、运营、财务、库存、支持和审批平台。</tspan>
-    <tspan x="70" dy="24"></tspan>
-    <tspan x="70" dy="24"></tspan>
+    <tspan x="70" dy="0">我们建立和整合客户关系管理、企业资源规划、客户关系管理系统、业务</tspan>
+    <tspan x="70" dy="24">、财务、库存、支助和核准平台. Kodmonk Systems提供架构、交付、安</tspan>
+    <tspan x="70" dy="24">全与可扩展软件工程服务，帮助企业建设可靠的数字平台。 Kodmonk Systems提供架构、交付、安全与可扩展软件工程服务，帮助企业建设可靠的数字平台。</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="192" height="53" rx="8"
+  <rect x="70" y="524" width="181" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="166" y="559"
+  <text x="160.5" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

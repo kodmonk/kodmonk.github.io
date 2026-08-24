@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="556" height="45" rx="22"
+  <rect x="70" y="178" width="544" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">Uhandisi wa programu wenye utendaji wa juu</text>
 
@@ -52,8 +52,8 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">Kuhusu Kodmonk | Kodmonk</tspan>
-    <tspan x="70" dy="44">Systems</tspan>
+    <tspan x="70" dy="0">Kuhusu Kodmonk | Software</tspan>
+    <tspan x="70" dy="44">Engineering | Kodmonk Systems</tspan>
     <tspan x="70" dy="44"></tspan>
     <tspan x="70" dy="44"></tspan>
   </text>
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">Wasifu na mbinu ya uhandisi ya Kodmonk Systems.</tspan>
-    <tspan x="70" dy="24"></tspan>
-    <tspan x="70" dy="24"></tspan>
+    <tspan x="70" dy="0">Wasifu, maadili na mbinu ya uhandisi ya Kodmonk Systems. Kodmonk</tspan>
+    <tspan x="70" dy="24">Systems hutoa usanifu, utekelezaji, usalama na uhandisi wa</tspan>
+    <tspan x="70" dy="24">programu unaoweza kupanuka.</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="265" height="53" rx="8"
+  <rect x="70" y="524" width="247" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="202.5" y="559"
+  <text x="193.5" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

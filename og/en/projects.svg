@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="284" height="45" rx="22"
+  <rect x="70" y="178" width="278" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">Kodmonk Case Studies</text>
 
@@ -52,9 +52,9 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">Case Studies &amp; Client</tspan>
-    <tspan x="70" dy="44">Solutions | Kodmonk</tspan>
-    <tspan x="70" dy="44">Systems</tspan>
+    <tspan x="70" dy="0">Kodmonk Case Studies |</tspan>
+    <tspan x="70" dy="44">Kodmonk Systems Company |</tspan>
+    <tspan x="70" dy="44">Software...</tspan>
     <tspan x="70" dy="44"></tspan>
   </text>
 
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">Explore Kodmonk case studies spanning SaaS platforms,</tspan>
-    <tspan x="70" dy="24">eCommerce engines, CRM automation, and custom ERP</tspan>
-    <tspan x="70" dy="24">systems.</tspan>
+    <tspan x="70" dy="0">Explore Kodmonk case studies across SaaS, CRM, CMS, eCommerce,</tspan>
+    <tspan x="70" dy="24">ERP, AI, and cloud engineering. Architecture, delivery, security, and</tspan>
+    <tspan x="70" dy="24">scalable software engine...</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="301" height="53" rx="8"
+  <rect x="70" y="524" width="251" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="220.5" y="559"
+  <text x="195.5" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

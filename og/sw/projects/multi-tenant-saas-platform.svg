@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="244" height="45" rx="22"
+  <rect x="70" y="178" width="225" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">Suluhisho la SaaS</text>
 
@@ -52,10 +52,10 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">Jukwaa la Tathmini la</tspan>
-    <tspan x="70" dy="44">SaaS la Wapangaji Wengi</tspan>
-    <tspan x="70" dy="44">na Kiwango Kikubwa |</tspan>
-    <tspan x="70" dy="44">Kodmonk Systems</tspan>
+    <tspan x="70" dy="0">Jukwaa la Tathmini la SaaS la</tspan>
+    <tspan x="70" dy="44">Wapangaji Wengi na Kiwango...</tspan>
+    <tspan x="70" dy="44"></tspan>
+    <tspan x="70" dy="44"></tspan>
   </text>
 
   <!-- Description -->
@@ -65,14 +65,14 @@
         font-weight="400"
         fill="#7A7F89">
     <tspan x="70" dy="0">Mfumo wa SaaS unaoweza kupanuka kwa wapangaji wengi</tspan>
-    <tspan x="70" dy="24">unaohudumia watumiaji 50K+ kwa wakati mmoja na zaidi ya</tspan>
-    <tspan x="70" dy="24">vipindi otomatiki milioni moja kila mwezi.</tspan>
+    <tspan x="70" dy="24">unaohudumia watumiaji 50K+ kwa wakati mmoja na zaidi ya vipindi</tspan>
+    <tspan x="70" dy="24">otomatiki milioni moja kila mwezi.</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="260" height="53" rx="8"
+  <rect x="70" y="524" width="220" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="200" y="559"
+  <text x="180" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

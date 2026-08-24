@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="202" height="45" rx="22"
+  <rect x="70" y="178" width="187" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">ERP-oplossing</text>
 
@@ -52,10 +52,10 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">Aangepaste</tspan>
-    <tspan x="70" dy="44">cloud-ERP-modules en</tspan>
-    <tspan x="70" dy="44">voorraadorkestratie |</tspan>
-    <tspan x="70" dy="44">Kodmonk Systems</tspan>
+    <tspan x="70" dy="0">Aangepaste cloud-ERP-modules</tspan>
+    <tspan x="70" dy="44">en voorraadorkestratie | Kod...</tspan>
+    <tspan x="70" dy="44"></tspan>
+    <tspan x="70" dy="44"></tspan>
   </text>
 
   <!-- Description -->
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">Cloud-ERP-modules voor realtime voorraad,</tspan>
-    <tspan x="70" dy="24">orderorkestratie, leveranciersbeheer en automatische</tspan>
-    <tspan x="70" dy="24">facturatie.</tspan>
+    <tspan x="70" dy="0">Cloud-ERP-modules voor realtime voorraad, orderorkestratie,</tspan>
+    <tspan x="70" dy="24">leveranciersbeheer en automatische facturatie. Kodmonk Systems</tspan>
+    <tspan x="70" dy="24">combineert architectuur, delivery,...</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="329" height="53" rx="8"
+  <rect x="70" y="524" width="280" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="234.5" y="559"
+  <text x="210" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

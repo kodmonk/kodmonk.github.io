@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="175" height="45" rx="22"
+  <rect x="70" y="178" width="163" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">Technologie</text>
 
@@ -52,10 +52,10 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">La bonne technologie pour</tspan>
-    <tspan x="70" dy="44">le problème, pas la</tspan>
-    <tspan x="70" dy="44">technologie pour</tspan>
-    <tspan x="70" dy="44">elle-même. | Kodmonk</tspan>
+    <tspan x="70" dy="0">La bonne technologie pour le</tspan>
+    <tspan x="70" dy="44">problème, pas pour son propr...</tspan>
+    <tspan x="70" dy="44"></tspan>
+    <tspan x="70" dy="44"></tspan>
   </text>
 
   <!-- Description -->
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">Nos choix suivent les contraintes produit, le contexte</tspan>
-    <tspan x="70" dy="24">de livraison, la sécurité et la maintenabilité à long</tspan>
-    <tspan x="70" dy="24">terme.</tspan>
+    <tspan x="70" dy="0">Nos choix technologiques suivent les contraintes de produits, le</tspan>
+    <tspan x="70" dy="24">contexte de livraison, les besoins en matière de sécurité et la</tspan>
+    <tspan x="70" dy="24">viabilité à long terme.</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="357" height="53" rx="8"
+  <rect x="70" y="524" width="295" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="248.5" y="559"
+  <text x="217.5" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

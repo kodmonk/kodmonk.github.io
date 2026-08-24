@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="160" height="45" rx="22"
+  <rect x="70" y="178" width="137" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">Teknologi</text>
 
@@ -52,10 +52,10 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">Teknologi yang tepat</tspan>
-    <tspan x="70" dy="44">untuk masalahnya, bukan</tspan>
-    <tspan x="70" dy="44">teknologi demi teknologi.</tspan>
-    <tspan x="70" dy="44">| Kodmonk Systems</tspan>
+    <tspan x="70" dy="0">Teknologi yang tepat untuk</tspan>
+    <tspan x="70" dy="44">masalahnya, bukan teknologi</tspan>
+    <tspan x="70" dy="44">de...</tspan>
+    <tspan x="70" dy="44"></tspan>
   </text>
 
   <!-- Description -->
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">Pilihan teknologi kami mengikuti batasan produk,</tspan>
-    <tspan x="70" dy="24">konteks delivery, kebutuhan keamanan, dan</tspan>
-    <tspan x="70" dy="24">maintainability jangka panjang.</tspan>
+    <tspan x="70" dy="0">Pilihan teknologi kami mengikuti batasan produk, konteks delivery,</tspan>
+    <tspan x="70" dy="24">kebutuhan keamanan, dan maintainability jangka panjang.</tspan>
+    <tspan x="70" dy="24"></tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="293" height="53" rx="8"
+  <rect x="70" y="524" width="233" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="216.5" y="559"
+  <text x="186.5" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="196" height="45" rx="22"
+  <rect x="70" y="178" width="178" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">SaaS Solution</text>
 
@@ -52,9 +52,9 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">High-Scale Multi-Tenant</tspan>
-    <tspan x="70" dy="44">SaaS Assessment Platform</tspan>
-    <tspan x="70" dy="44">| Kodmonk Systems</tspan>
+    <tspan x="70" dy="0">High-Scale Multi-Tenant SaaS</tspan>
+    <tspan x="70" dy="44">Assessment Platform | Kodmon...</tspan>
+    <tspan x="70" dy="44"></tspan>
     <tspan x="70" dy="44"></tspan>
   </text>
 
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">Engineered a scalable multi-tenant SaaS ecosystem</tspan>
-    <tspan x="70" dy="24">supporting 50K+ concurrent users and delivering over</tspan>
-    <tspan x="70" dy="24">1,000,000 automated sessions monthly.</tspan>
+    <tspan x="70" dy="0">Engineered a scalable multi-tenant SaaS ecosystem supporting 50K+</tspan>
+    <tspan x="70" dy="24">concurrent users and delivering over 1,000,000 automated sessions</tspan>
+    <tspan x="70" dy="24">monthly.</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="315" height="53" rx="8"
+  <rect x="70" y="524" width="262" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="227.5" y="559"
+  <text x="201" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

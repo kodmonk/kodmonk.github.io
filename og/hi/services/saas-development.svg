@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="364" height="45" rx="22"
+  <rect x="70" y="178" width="347" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">Kodmonk Systems capability</text>
 
@@ -52,8 +52,8 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">SaaS और वेब प्लेटफ़ॉर्म</tspan>
-    <tspan x="70" dy="44">डेवलपमेंट | Kodmonk</tspan>
+    <tspan x="70" dy="0">SaaS and Web Platform</tspan>
+    <tspan x="70" dy="44">Development | Kodmonk</tspan>
     <tspan x="70" dy="44">Systems</tspan>
     <tspan x="70" dy="44"></tspan>
   </text>
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">हम मल्टी-टेनेंट SaaS उत्पाद, ग्राहक पोर्टल, वर्कफ़्लो</tspan>
-    <tspan x="70" dy="24">ऐप्लिकेशन, सब्सक्रिप्शन, API और एनालिटिक्स-आधारित</tspan>
-    <tspan x="70" dy="24">प्लेटफ़ॉर्म इंजीनियर करते हैं।</tspan>
+    <tspan x="70" dy="0">हम बहु किरायेदार SaaS उत्पादों, ग्राहक पोर्टल,</tspan>
+    <tspan x="70" dy="24">वर्कफ़्लो अनुप्रयोगों, सदस्यता, APIs, और</tspan>
+    <tspan x="70" dy="24">एनालिटिक्स संचालित प्लेटफार्मों इंजीनियर।.</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="375" height="53" rx="8"
+  <rect x="70" y="524" width="353" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="257.5" y="559"
+  <text x="246.5" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

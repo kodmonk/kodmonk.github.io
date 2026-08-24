@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="473" height="45" rx="22"
+  <rect x="70" y="178" width="442" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">Servicios de ingeniería de software</text>
 
@@ -52,9 +52,9 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">Servicios de ingeniería</tspan>
-    <tspan x="70" dy="44">de software | Kodmonk</tspan>
-    <tspan x="70" dy="44">Systems</tspan>
+    <tspan x="70" dy="0">Servicios de ingeniería de</tspan>
+    <tspan x="70" dy="44">software | Kodmonk Systems</tspan>
+    <tspan x="70" dy="44"></tspan>
     <tspan x="70" dy="44"></tspan>
   </text>
 
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">Ingeniería de plataformas y cloud para empresas</tspan>
-    <tspan x="70" dy="24">globales.</tspan>
-    <tspan x="70" dy="24"></tspan>
+    <tspan x="70" dy="0">Global SaaS, CRM, CMS, eCommerce, ERP, AI y servicios de</tspan>
+    <tspan x="70" dy="24">ingeniería en la nube de Kodmonk Systems. Kodmonk Systems</tspan>
+    <tspan x="70" dy="24">aporta arquitectura, entrega, seguridad e...</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="321" height="53" rx="8"
+  <rect x="70" y="524" width="281" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="230.5" y="559"
+  <text x="210.5" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

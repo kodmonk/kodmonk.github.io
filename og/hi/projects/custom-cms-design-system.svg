@@ -38,13 +38,13 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="176" height="45" rx="22"
+  <rect x="70" y="178" width="246" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
-        fill="#00B889">CMS समाधान</text>
+        fill="#00B889">सीएमएस समाधान</text>
 
   <!-- Main heading -->
   <text x="70" y="272"
@@ -52,9 +52,9 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">हेडलेस एंटरप्राइज़ CMS और</tspan>
-    <tspan x="70" dy="44">एटॉमिक डिज़ाइन सिस्टम |</tspan>
-    <tspan x="70" dy="44">Kodmonk Systems</tspan>
+    <tspan x="70" dy="0">हेडलेस एंटरप्राइज</tspan>
+    <tspan x="70" dy="44">सीएमएस और परमाणु</tspan>
+    <tspan x="70" dy="44">डिजाइन सिस्टम | Kodmon...</tspan>
     <tspan x="70" dy="44"></tspan>
   </text>
 
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">एंटरप्राइज़ डिजिटल पब्लिशिंग के लिए React और Angular</tspan>
-    <tspan x="70" dy="24">में कस्टम हेडलेस CMS आर्किटेक्चर और एकीकृत एटॉमिक</tspan>
-    <tspan x="70" dy="24">डिज़ाइन सिस्टम।</tspan>
+    <tspan x="70" dy="0">उद्यम डिजिटल प्रकाशन के लिए रीएक्ट और कोणीय में</tspan>
+    <tspan x="70" dy="24">एक कस्टम हेडलेस सीएमएस आर्किटेक्चर और एकीकृत</tspan>
+    <tspan x="70" dy="24">परमाणु डिजाइन सिस्टम विकसित किया गया।.</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="461" height="53" rx="8"
+  <rect x="70" y="524" width="434" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="300.5" y="559"
+  <text x="287" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

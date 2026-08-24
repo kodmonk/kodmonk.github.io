@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="160" height="45" rx="22"
+  <rect x="70" y="178" width="116" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">حل CMS</text>
 
@@ -52,8 +52,8 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">نظام CMS مؤسسي بلا واجهة</tspan>
-    <tspan x="70" dy="44">ونظام تصميم ذري | Kodmonk</tspan>
+    <tspan x="70" dy="0">نظام التصميم الذري |</tspan>
+    <tspan x="70" dy="44">Software Engineering | Kodmonk</tspan>
     <tspan x="70" dy="44">Systems</tspan>
     <tspan x="70" dy="44"></tspan>
   </text>
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">بنية CMS بلا واجهة ونظام تصميم ذري متكامل للنشر الرقمي</tspan>
-    <tspan x="70" dy="24">المؤسسي.</tspan>
-    <tspan x="70" dy="24"></tspan>
+    <tspan x="70" dy="0">وضع هيكل نظام إدارة المعلومات والاتصالات غير</tspan>
+    <tspan x="70" dy="24">معلّم بالعرف ونظام موحد للتصميم الذري على نطاق</tspan>
+    <tspan x="70" dy="24">&amp;quot; React &amp;quot; و &amp;quot; انقراض &amp;quot; للنشر الرقمي في المؤسسة.</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="307" height="53" rx="8"
+  <rect x="70" y="524" width="290" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="223.5" y="559"
+  <text x="215" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

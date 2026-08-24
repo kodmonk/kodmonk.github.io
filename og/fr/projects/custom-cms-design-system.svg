@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="183" height="45" rx="22"
+  <rect x="70" y="178" width="169" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">Solution CMS</text>
 
@@ -52,10 +52,10 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">CMS headless d’entreprise</tspan>
-    <tspan x="70" dy="44">et système de design</tspan>
-    <tspan x="70" dy="44">atomique | Kodmonk</tspan>
-    <tspan x="70" dy="44">Systems</tspan>
+    <tspan x="70" dy="0">Entreprise sans tête CMS &amp;</tspan>
+    <tspan x="70" dy="44">Système de conception</tspan>
+    <tspan x="70" dy="44">atomique...</tspan>
+    <tspan x="70" dy="44"></tspan>
   </text>
 
   <!-- Description -->
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">Architecture CMS headless et système de design atomique</tspan>
-    <tspan x="70" dy="24">intégré pour la publication numérique d’entreprise.</tspan>
-    <tspan x="70" dy="24"></tspan>
+    <tspan x="70" dy="0">Développé une architecture CMS sans tête personnalisée et un</tspan>
+    <tspan x="70" dy="24">système de conception atomique unifié à travers React et Angular</tspan>
+    <tspan x="70" dy="24">pour l&amp;#x27;édition numérique d&amp;#x27;entr...</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="288" height="53" rx="8"
+  <rect x="70" y="524" width="243" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="214" y="559"
+  <text x="191.5" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

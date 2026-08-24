@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="364" height="45" rx="22"
+  <rect x="70" y="178" width="347" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">Kodmonk Systems capability</text>
 
@@ -52,9 +52,9 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">आधुनिकीकरण और माइग्रेशन |</tspan>
-    <tspan x="70" dy="44">Kodmonk Systems</tspan>
-    <tspan x="70" dy="44"></tspan>
+    <tspan x="70" dy="0">आधुनिकीकरण और प्रवास |</tspan>
+    <tspan x="70" dy="44">Software Engineering | Kodmonk</tspan>
+    <tspan x="70" dy="44">Sys...</tspan>
     <tspan x="70" dy="44"></tspan>
   </text>
 
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">हम क्रमिक एप्लिकेशन, क्लाउड, डेटाबेस, कॉमर्स, CRM, ERP</tspan>
-    <tspan x="70" dy="24">और CMS आधुनिकीकरण कार्यक्रमों की योजना और डिलीवरी करते</tspan>
-    <tspan x="70" dy="24">हैं।</tspan>
+    <tspan x="70" dy="0">हम वृद्धिशील अनुप्रयोग, क्लाउड, डेटाबेस, वाणिज्य,</tspan>
+    <tspan x="70" dy="24">सीआरएम, ईआरपी और सीएमएस आधुनिकीकरण कार्यक्रम की</tspan>
+    <tspan x="70" dy="24">योजना और वितरण करते हैं।.</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="375" height="53" rx="8"
+  <rect x="70" y="524" width="353" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="257.5" y="559"
+  <text x="246.5" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

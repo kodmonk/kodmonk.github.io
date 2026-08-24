@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="364" height="45" rx="22"
+  <rect x="70" y="178" width="347" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">Kodmonk Systems capability</text>
 
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">हम एप्लिकेशन सुरक्षा, एक्सेस कंट्रोल, टेस्टिंग,</tspan>
-    <tspan x="70" dy="24">प्रदर्शन, ऑब्ज़र्वेबिलिटी और संचालन तैयारी को मजबूत</tspan>
-    <tspan x="70" dy="24">करते हैं।</tspan>
+    <tspan x="70" dy="0">हम अनुप्रयोग सुरक्षा, अभिगम नियंत्रण, परीक्षण,</tspan>
+    <tspan x="70" dy="24">प्रदर्शन, पर्यवेक्षण और परिचालन तत्परता को मजबूत</tspan>
+    <tspan x="70" dy="24">करते हैं।. Kodmonk Systems आर्किटेक्चर, डिलीवरी, सुरक्षा और स...</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="375" height="53" rx="8"
+  <rect x="70" y="524" width="353" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="257.5" y="559"
+  <text x="246.5" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

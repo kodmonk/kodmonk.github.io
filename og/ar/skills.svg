@@ -38,13 +38,13 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="213" height="45" rx="22"
+  <rect x="70" y="178" width="358" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
-        fill="#00B889">قدرات Kodmonk</text>
+        fill="#00B889">خدمات هندسة برامجيات</text>
 
   <!-- Main heading -->
   <text x="70" y="272"
@@ -52,9 +52,9 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">قدرات Kodmonk | Kodmonk</tspan>
-    <tspan x="70" dy="44">Systems</tspan>
-    <tspan x="70" dy="44"></tspan>
+    <tspan x="70" dy="0">خدمات هندسة برامجيات |</tspan>
+    <tspan x="70" dy="44">Software Engineering | Kodmonk</tspan>
+    <tspan x="70" dy="44">Sys...</tspan>
     <tspan x="70" dy="44"></tspan>
   </text>
 
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">قدرات تصل الاستراتيجية بالتسليم.</tspan>
-    <tspan x="70" dy="24"></tspan>
-    <tspan x="70" dy="24"></tspan>
+    <tspan x="70" dy="0">خدمات هندسة SaaS وCRM وCMS وeCommerce وERP والذكاء</tspan>
+    <tspan x="70" dy="24">الاصطناعي والسحابة من Kodmonk Systems. تقدم Kodmonk</tspan>
+    <tspan x="70" dy="24">Systems هندسة معمارية وتسليماً وأماناً وهندسة برمجيات...</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="247" height="53" rx="8"
+  <rect x="70" y="524" width="235" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="193.5" y="559"
+  <text x="187.5" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

@@ -38,13 +38,13 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="160" height="45" rx="22"
+  <rect x="70" y="178" width="239" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
-        fill="#00B889">तकनीक</text>
+        fill="#00B889">प्रौद्योगिकी</text>
 
   <!-- Main heading -->
   <text x="70" y="272"
@@ -53,9 +53,9 @@
         font-weight="800"
         fill="#0B0B0D">
     <tspan x="70" dy="0">समस्या के लिए सही</tspan>
-    <tspan x="70" dy="44">तकनीक—सिर्फ तकनीक के लिए</tspan>
-    <tspan x="70" dy="44">तकनीक नहीं। | Kodmonk</tspan>
-    <tspan x="70" dy="44">Systems</tspan>
+    <tspan x="70" dy="44">प्रौद्योगिकी - अपने खुद</tspan>
+    <tspan x="70" dy="44">के लिए प्रौद्यो...</tspan>
+    <tspan x="70" dy="44"></tspan>
   </text>
 
   <!-- Description -->
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">हमारी तकनीक का चुनाव उत्पाद की सीमाओं, डिलीवरी संदर्भ,</tspan>
-    <tspan x="70" dy="24">सुरक्षा और लंबे समय की मेंटेनेबिलिटी पर आधारित होता है।</tspan>
-    <tspan x="70" dy="24"></tspan>
+    <tspan x="70" dy="0">हमारे प्रौद्योगिकी विकल्प उत्पाद बाधाओं, वितरण</tspan>
+    <tspan x="70" dy="24">संदर्भ, सुरक्षा आवश्यकताओं और दीर्घकालिक रखरखाव</tspan>
+    <tspan x="70" dy="24">का पालन करते हैं।. Kodmonk Systems आर्किटेक्चर, डिलीवरी, सुरक्...</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="316" height="53" rx="8"
+  <rect x="70" y="524" width="300" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="228" y="559"
+  <text x="220" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

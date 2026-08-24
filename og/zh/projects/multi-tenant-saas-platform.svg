@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="182" height="45" rx="22"
+  <rect x="70" y="178" width="184" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">SaaS 解决方案</text>
 
@@ -52,9 +52,9 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">高规模多租户 SaaS 评估平台 |</tspan>
-    <tspan x="70" dy="44">Kodmonk Systems</tspan>
-    <tspan x="70" dy="44"></tspan>
+    <tspan x="70" dy="0">高级多用途 SaaS评估平台|</tspan>
+    <tspan x="70" dy="44">Software Engineering| Kodmonk</tspan>
+    <tspan x="70" dy="44">Systems</tspan>
     <tspan x="70" dy="44"></tspan>
   </text>
 
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">可扩展的多租户 SaaS 生态系统，支持 5 万以上并发用户，并每月处理超过一百万次自动化会话。</tspan>
-    <tspan x="70" dy="24"></tspan>
-    <tspan x="70" dy="24"></tspan>
+    <tspan x="70" dy="0">设计了一个可扩展的多租户 SaaS生态系统,支持 50K+并行用户,每月提供 1</tspan>
+    <tspan x="70" dy="24">000 000多场自动化会议. Kodmonk Systems提供架构、交付、安全与可</tspan>
+    <tspan x="70" dy="24">扩展软件工程服务，帮助企业建设可靠的数字平台。 Kodmonk Systems提 供架构、交付、安全与可扩展软件工程服务，帮助企业建设可靠的数字平台。</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="192" height="53" rx="8"
+  <rect x="70" y="524" width="181" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="166" y="559"
+  <text x="160.5" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

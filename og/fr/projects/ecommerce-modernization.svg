@@ -38,13 +38,13 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="303" height="45" rx="22"
+  <rect x="70" y="178" width="400" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
-        fill="#00B889">Ingénierie e-commerce</text>
+        fill="#00B889">génie du commerce électronique</text>
 
   <!-- Main heading -->
   <text x="70" y="272"
@@ -52,10 +52,10 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">Modernisation d’une</tspan>
-    <tspan x="70" dy="44">plateforme commerciale</tspan>
-    <tspan x="70" dy="44">mondiale et moteur</tspan>
-    <tspan x="70" dy="44">d’hébergement | Kodmonk</tspan>
+    <tspan x="70" dy="0">Modernisation de la plate-forme</tspan>
+    <tspan x="70" dy="44">de commerce mondial et mo...</tspan>
+    <tspan x="70" dy="44"></tspan>
+    <tspan x="70" dy="44"></tspan>
   </text>
 
   <!-- Description -->
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">Modernisation d’un moteur e-commerce et d’hébergement</tspan>
-    <tspan x="70" dy="24">international à fort trafic avec une architecture React</tspan>
-    <tspan x="70" dy="24">headless.</tspan>
+    <tspan x="70" dy="0">Modernisé un eCommerce international et un moteur</tspan>
+    <tspan x="70" dy="24">d&amp;#x27;hébergement géré à haute circulation, offrant 300K–1M</tspan>
+    <tspan x="70" dy="24">d&amp;#x27;acheteurs actifs mensuels avec une architecture R...</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="288" height="53" rx="8"
+  <rect x="70" y="524" width="243" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="214" y="559"
+  <text x="191.5" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

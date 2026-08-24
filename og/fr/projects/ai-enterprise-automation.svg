@@ -38,13 +38,13 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="319" height="45" rx="22"
+  <rect x="70" y="178" width="272" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
-        fill="#00B889">Intégration IA et cloud</text>
+        fill="#00B889">Intégration AI &amp; Cloud</text>
 
   <!-- Main heading -->
   <text x="70" y="272"
@@ -52,10 +52,10 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">Moteur de workflows et</tspan>
-    <tspan x="70" dy="44">d’automatisation</tspan>
-    <tspan x="70" dy="44">documentaire par IA |</tspan>
-    <tspan x="70" dy="44">Kodmonk Systems</tspan>
+    <tspan x="70" dy="0">Moteur d&amp;#x27;automatisation</tspan>
+    <tspan x="70" dy="44">du flux de travail et des</tspan>
+    <tspan x="70" dy="44">documen...</tspan>
+    <tspan x="70" dy="44"></tspan>
   </text>
 
   <!-- Description -->
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">Pipelines LLM et extraction documentaire automatisée</tspan>
-    <tspan x="70" dy="24">intégrés aux services backend d’entreprise pour</tspan>
-    <tspan x="70" dy="24">accélérer les décisions.</tspan>
+    <tspan x="70" dy="0">Les pipelines intégrés d&amp;#x27;IA LLM et les flux de travail</tspan>
+    <tspan x="70" dy="24">automatisés d&amp;#x27;extraction de documents dans les services</tspan>
+    <tspan x="70" dy="24">d&amp;#x27;aide à l&amp;#x27;entreprise pour accélérer la prise...</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="288" height="53" rx="8"
+  <rect x="70" y="524" width="243" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="214" y="559"
+  <text x="191.5" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

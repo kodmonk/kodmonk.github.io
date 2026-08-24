@@ -38,13 +38,13 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="276" height="45" rx="22"
+  <rect x="70" y="178" width="432" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
-        fill="#00B889">Kapabilitas Kodmonk</text>
+        fill="#00B889">Layanan Rekayasa Perangkat Lunak</text>
 
   <!-- Main heading -->
   <text x="70" y="272"
@@ -52,8 +52,8 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">Kapabilitas Kodmonk |</tspan>
-    <tspan x="70" dy="44">Kodmonk Systems</tspan>
+    <tspan x="70" dy="0">Layanan Rekayasa Perangkat</tspan>
+    <tspan x="70" dy="44">Lunak | Kodmonk Systems</tspan>
     <tspan x="70" dy="44"></tspan>
     <tspan x="70" dy="44"></tspan>
   </text>
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">Kapabilitas yang menghubungkan strategi dengan</tspan>
-    <tspan x="70" dy="24">delivery.</tspan>
-    <tspan x="70" dy="24"></tspan>
+    <tspan x="70" dy="0">Layanan rekayasa SaaS, CRM, CMS, eCommerce, ERP, AI, dan cloud</tspan>
+    <tspan x="70" dy="24">global dari Kodmonk Systems. Kodmonk Systems menyediakan</tspan>
+    <tspan x="70" dy="24">arsitektur, delivery, keamanan, dan r...</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="265" height="53" rx="8"
+  <rect x="70" y="524" width="225" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="202.5" y="559"
+  <text x="182.5" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

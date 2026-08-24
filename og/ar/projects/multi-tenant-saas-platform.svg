@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="160" height="45" rx="22"
+  <rect x="70" y="178" width="124" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">حل SaaS</text>
 
@@ -52,9 +52,9 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">منصة تقييم SaaS متعددة</tspan>
-    <tspan x="70" dy="44">المستأجرين عالية التوسع |</tspan>
-    <tspan x="70" dy="44">Kodmonk Systems</tspan>
+    <tspan x="70" dy="0">منهاج التقييم المتعدد</tspan>
+    <tspan x="70" dy="44">المستويات | Software</tspan>
+    <tspan x="70" dy="44">Engineering |...</tspan>
     <tspan x="70" dy="44"></tspan>
   </text>
 
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">منظومة SaaS قابلة للتوسع تدعم أكثر من 50 ألف مستخدم</tspan>
-    <tspan x="70" dy="24">متزامن وأكثر من مليون جلسة آلية شهرياً.</tspan>
-    <tspan x="70" dy="24"></tspan>
+    <tspan x="70" dy="0">مهندس نظام إيكولوجي متعدد العوامل متصاعد يدعم 50</tspan>
+    <tspan x="70" dy="24">كيلو غرام + مستعملين متزامنين ويقدم أكثر من 000 1</tspan>
+    <tspan x="70" dy="24">دورة آلية شهريا. تقدم Kodmonk Systems هندسة معمارية وتسليم...</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="307" height="53" rx="8"
+  <rect x="70" y="524" width="290" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="223.5" y="559"
+  <text x="215" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

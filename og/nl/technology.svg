@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="175" height="45" rx="22"
+  <rect x="70" y="178" width="163" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">Technologie</text>
 
@@ -52,10 +52,10 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">De juiste technologie</tspan>
-    <tspan x="70" dy="44">voor het probleem, niet</tspan>
-    <tspan x="70" dy="44">technologie om zichzelf.</tspan>
-    <tspan x="70" dy="44">| Kodmonk Systems</tspan>
+    <tspan x="70" dy="0">De juiste technologie voor het</tspan>
+    <tspan x="70" dy="44">probleem, niet technologie...</tspan>
+    <tspan x="70" dy="44"></tspan>
+    <tspan x="70" dy="44"></tspan>
   </text>
 
   <!-- Description -->
@@ -65,14 +65,14 @@
         font-weight="400"
         fill="#7A7F89">
     <tspan x="70" dy="0">Onze keuzes volgen productbeperkingen, deliverycontext,</tspan>
-    <tspan x="70" dy="24">beveiliging en onderhoudbaarheid op lange termijn.</tspan>
-    <tspan x="70" dy="24"></tspan>
+    <tspan x="70" dy="24">beveiliging en onderhoudbaarheid op lange termijn. Kodmonk</tspan>
+    <tspan x="70" dy="24">Systems combineert architectuur, delivery,...</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="335" height="53" rx="8"
+  <rect x="70" y="524" width="288" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="237.5" y="559"
+  <text x="214" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

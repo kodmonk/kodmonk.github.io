@@ -42,7 +42,7 @@
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">Neem contact op met Kodmonk</text>
 
@@ -52,8 +52,8 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">Neem contact op met</tspan>
-    <tspan x="70" dy="44">Kodmonk | Kodmonk Systems</tspan>
+    <tspan x="70" dy="0">Neem contact op met Kodmonk |</tspan>
+    <tspan x="70" dy="44">Software Engineering | Kodm...</tspan>
     <tspan x="70" dy="44"></tspan>
     <tspan x="70" dy="44"></tspan>
   </text>
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">Start een technisch gesprek met Kodmonk Systems.</tspan>
-    <tspan x="70" dy="24"></tspan>
-    <tspan x="70" dy="24"></tspan>
+    <tspan x="70" dy="0">Start een technisch discoverygesprek met Kodmonk Systems.</tspan>
+    <tspan x="70" dy="24">Kodmonk Systems combineert architectuur, delivery, security en</tspan>
+    <tspan x="70" dy="24">schaalbare software-engineering voor...</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="301" height="53" rx="8"
+  <rect x="70" y="524" width="263" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="220.5" y="559"
+  <text x="201.5" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

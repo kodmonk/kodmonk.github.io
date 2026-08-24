@@ -38,13 +38,13 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="284" height="45" rx="22"
+  <rect x="70" y="178" width="231" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
-        fill="#00B889">Contacta con Kodmonk</text>
+        fill="#00B889">Contacto Kodmonk</text>
 
   <!-- Main heading -->
   <text x="70" y="272"
@@ -52,8 +52,8 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">Contacta con Kodmonk |</tspan>
-    <tspan x="70" dy="44">Kodmonk Systems</tspan>
+    <tspan x="70" dy="0">Contacto Kodmonk | Software</tspan>
+    <tspan x="70" dy="44">Engineering | Kodmonk Systems</tspan>
     <tspan x="70" dy="44"></tspan>
     <tspan x="70" dy="44"></tspan>
   </text>
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">Inicia una conversación técnica con Kodmonk Systems.</tspan>
-    <tspan x="70" dy="24"></tspan>
-    <tspan x="70" dy="24"></tspan>
+    <tspan x="70" dy="0">Iniciar una conversación técnica de descubrimiento con Kodmonk</tspan>
+    <tspan x="70" dy="24">Systems. Kodmonk Systems aporta arquitectura, entrega, seguridad</tspan>
+    <tspan x="70" dy="24">e ingeniería de software esca...</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="371" height="53" rx="8"
+  <rect x="70" y="524" width="313" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="255.5" y="559"
+  <text x="226.5" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

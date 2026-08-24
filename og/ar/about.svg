@@ -38,13 +38,13 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="163" height="45" rx="22"
+  <rect x="70" y="178" width="228" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
-        fill="#00B889">عن Kodmonk</text>
+        fill="#00B889">بشأن كودمونك</text>
 
   <!-- Main heading -->
   <text x="70" y="272"
@@ -52,8 +52,8 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">عن Kodmonk | Kodmonk</tspan>
-    <tspan x="70" dy="44">Systems</tspan>
+    <tspan x="70" dy="0">بشأن كودمونك | Software</tspan>
+    <tspan x="70" dy="44">Engineering | Kodmonk Systems</tspan>
     <tspan x="70" dy="44"></tspan>
     <tspan x="70" dy="44"></tspan>
   </text>
@@ -64,15 +64,15 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">نبذة عن شركة Kodmonk Systems ونهجها الهندسي.</tspan>
-    <tspan x="70" dy="24"></tspan>
-    <tspan x="70" dy="24"></tspan>
+    <tspan x="70" dy="0">الملف التعريفي لشركة Kodmonk Systems وقيمها ونهجها</tspan>
+    <tspan x="70" dy="24">في تسليم الأعمال الهندسية. تقدم Kodmonk Systems</tspan>
+    <tspan x="70" dy="24">هندسة معمارية وتسليماً وأماناً وهندسة برمجيات قابلة للتوسع...</tspan>
   </text>
 
   <!-- CTA -->
-  <rect x="70" y="524" width="289" height="53" rx="8"
+  <rect x="70" y="524" width="274" height="53" rx="8"
         fill="#397BFF"/>
-  <text x="214.5" y="559"
+  <text x="207" y="559"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="24"

@@ -38,11 +38,11 @@
   </g>
 
   <!-- Badge -->
-  <rect x="70" y="178" width="176" height="45" rx="22"
+  <rect x="70" y="178" width="184" height="45" rx="22"
         fill="#D9F5EF"/>
   <text x="86" y="208"
         font-family="Arial, sans-serif"
-        font-size="23"
+        font-size="23.0"
         font-weight="700"
         fill="#00B889">联系 Kodmonk</text>
 
@@ -52,8 +52,8 @@
         font-size="39"
         font-weight="800"
         fill="#0B0B0D">
-    <tspan x="70" dy="0">联系 Kodmonk | Kodmonk</tspan>
-    <tspan x="70" dy="44">Systems</tspan>
+    <tspan x="70" dy="0">联系 Kodmonk| Software</tspan>
+    <tspan x="70" dy="44">Engineering| Kodmonk Systems</tspan>
     <tspan x="70" dy="44"></tspan>
     <tspan x="70" dy="44"></tspan>
   </text>
@@ -64,9 +64,9 @@
         font-size="18"
         font-weight="400"
         fill="#7A7F89">
-    <tspan x="70" dy="0">与 Kodmonk Systems 开始技术交流。</tspan>
-    <tspan x="70" dy="24"></tspan>
-    <tspan x="70" dy="24"></tspan>
+    <tspan x="70" dy="0">与科德蒙克系统公司开始技术发现对话. Kodmonk Systems提供架构、交</tspan>
+    <tspan x="70" dy="24">付、安全与可扩展软件工程服务，帮助企业建设可靠的数字平台。</tspan>
+    <tspan x="70" dy="24">Kodmonk Systems提供架构、交付、安全与可扩展软件工程服务，帮助企 业建设可靠的数字平台。</tspan>
   </text>
 
   <!-- CTA -->
