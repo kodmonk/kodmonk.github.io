@@ -1,2 +1,2 @@
-:HL["/_next/static/chunks/0cp6lfhjtj14j.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"id","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"oc","key":"services/enterprise-software","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"kXuFoFK_Ac86UklPRbZiB"}
+:HL["/_next/static/chunks/00n4.me3153z..css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"id","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"oc","key":"services/enterprise-software","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"LuC85wkUKDIeKigqwWW7j"}
