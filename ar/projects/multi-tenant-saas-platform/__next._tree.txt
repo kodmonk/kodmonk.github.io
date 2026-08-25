@@ -1,2 +1,3 @@
-:HL["/_next/static/chunks/00n4.me3153z..css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"ar","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"oc","key":"projects/multi-tenant-saas-platform","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"LuC85wkUKDIeKigqwWW7j"}
+:HL["/_next/static/chunks/084jgpmq70d_b.css","style"]
+:HL["/_next/static/chunks/0o0b5jqvy8312.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"ar","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"oc","key":"projects/multi-tenant-saas-platform","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"9t5qWH00ALo1iO2tKU8LA"}
