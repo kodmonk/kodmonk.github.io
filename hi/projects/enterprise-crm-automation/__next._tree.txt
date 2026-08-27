@@ -1,3 +1,3 @@
-:HL["/_next/static/chunks/0b7r8qdl6woeo.css","style"]
+:HL["/_next/static/chunks/0rj-9zplz_gp-.css","style"]
 :HL["/_next/static/chunks/0o0b5jqvy8312.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"hi","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"oc","key":"projects/enterprise-crm-automation","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"tOYr3HWDkodryzOglD5a7"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"locale","param":{"type":"d","key":"hi","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"oc","key":"projects/enterprise-crm-automation","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"se5ZTZJLQovaeODHl3pt2"}
